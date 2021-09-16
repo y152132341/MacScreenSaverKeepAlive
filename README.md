@@ -3,8 +3,8 @@ work-around for when you can't change your mac screen saver time setting
 
 ![Screen Saver Settings](screen_saver_settings.png)
 
-some times you get a lock on this screen.
-in the case of the computer where this screenshot was taken, it meant that the screen saver would trigger every 2 minutes.
+Some times you get a lock on this screen.\
+In the case of the computer where this screenshot was taken, it meant that the screen saver would trigger every 2 minutes.\
 the only work around would be to keep the mouse moving.
 
 This script basically moves the mouse 1 pixel every 110 seconds, just 10 seconds before the screen saver kicks in.
